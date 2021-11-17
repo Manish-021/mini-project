@@ -1,5 +1,4 @@
-# Mini-Project
-#My Next Step
+# My Next Step
 There is a demand in unique approach and strategy. Consulting 
 services provide assistance and advice to the client for them to 
 better understand all aspects of the online business, technologies, 
@@ -14,3 +13,4 @@ individuals, companies, or organizations, teenagers that simply want
 to develop a more effective presence. The offering covers up 
 everything including carrier guidance, financial strategy, risk 
 management, and operational setups
+
